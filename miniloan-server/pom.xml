@@ -44,7 +44,7 @@
       <version>1.1</version>
       </dependency>
   </dependencies>
-    <profiles>
+   <!--  <profiles>
         <profile>
             <id>start-application</id>
             <activation>
@@ -76,5 +76,5 @@
                 </plugins>
             </build>
         </profile>
-    </profiles>
+    </profiles> -->
 </project>
